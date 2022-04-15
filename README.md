@@ -1,4 +1,4 @@
 # NATU
 NATUCASH - Global Blockchain
 
-natucash.org
+www.natucash.org
