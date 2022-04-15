@@ -1,4 +1,4 @@
-# NBR2
+# NATU
 NATUCASH - Global Blockchain
 
 natucash.org
