@@ -1,4 +1,4 @@
 # NBR2
-NBR2 - Global Blockchain
+NATUCASH - Global Blockchain
 
-nbr2.net-br.net
+natucash.org
